@@ -1,0 +1,68 @@
+body{
+ display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:#b6fcfe;
+ ;
+}
+.titulo{
+  border:solid;
+  border-color:#000064;
+  border-width: 1ch;
+border-radius:4ch;
+  
+ 
+}
+.contenedor{
+  border: solid;
+  border-color:#000064;
+ border-radius:4ch;
+ 
+  
+}
+img{
+  width: 500px;
+  height: 500px;
+  border:solid;
+  background-color: #b6fcfe;
+border-radius:4ch;
+}
+
+.contiene{
+  border: solid;
+  border-color:#000064;
+  border-radius:4ch;
+ 
+  
+}
+.daños{
+  border:solid;
+  border-color:#000064;
+  border-radius:4ch;
+  
+  
+.contenedor{
+  border:solid;
+  border-color:#000064;
+  border-radius:4ch;
+}
+  .contenido{
+    border:solid;
+    border-color:#000064;
+    border-radius:4ch;
+  }
+
+
+
+
+
+
+
+
+
+
+
+
